@@ -15,3 +15,6 @@ console.log(Math.max(...numbers) , Math.min(...numbers))
 
 
 console.log(numbers)
+
+
+
